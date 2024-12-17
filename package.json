@@ -1,0 +1,20 @@
+{
+    "name": "profeopina",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build"
+    },
+    "devDependencies": {
+      "axios": "^0.24",
+      "laravel-mix": "^6.0.0",
+      "postcss": "^8.4.5",
+      "vite": "^2.9.8"
+    },
+    "dependencies": {
+      "alpinejs": "^3.9",
+      "tailwindcss": "^2.2"
+    }
+  }
+  
